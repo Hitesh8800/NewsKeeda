@@ -1,0 +1,1409 @@
+{
+
+    "status": "ok",
+    "totalResults": 9441,
+    
+    "articles": [
+        {
+ 
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "Fresh Bitcoin Hype Shows Crypto Just Can’t Help Itself",
+            "description": "After crashes, scandals, and SBF’s guilty verdict, many hoped the crypto industry would grow up. Speculation around the arrival of a spot bitcoin ETF shows old hype dies hard.",
+            "url": "https://www.wired.com/story/bitcoin-etf-crypto-investments/",
+            "urlToImage": "https://media.wired.com/photos/65668f0cb38d7a2373721a48/191:100/w_1280,c_limit/Crpyto-Can't-Help-Itself-Business-1400047284.jpg",
+            "publishedAt": "2023-11-29T12:00:00Z",
+            "content": "The prospect that US residents may soon be able to invest in bitcoin through their brokerage, as if it were a regular stock, has prompted a fresh round of hype in crypto circlesand a surge in crypto … [+2137 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Bitcoin just won't die",
+            "description": "Bitcoin is outperforming both the S&P 500 and the \"Magnificent 7\" Big Tech stocks this year, with its price doubling since FTX collapsed a year ago.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-gains-etf-blackrock-ftx-sam-bankman-fried-2023-11",
+            "urlToImage": "https://i.insider.com/654e19943cc84b4dfaffe8eb?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T13:54:08Z",
+            "content": "FTX founder Sam Bankman-Fried.Michael M Santiago/Getty Images\r\n<ul>\n<li>Bitcoin's price has doubled since FTX collapsed a year ago.</li>\n<li>It's outperforming both the S&P 500 and the \"Magnificent 7… [+3898 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Kliment Dukovski",
+            "title": "How to Buy Bitcoin Minetrix in 2023 – Complete Guide",
+            "description": "Bitcoin Minetrix is a crypto project aiming to bring Bitcoin mining to the masses using an innovative feature called stake-to-mine. […]\nThe post How to Buy Bitcoin Minetrix in 2023 – Complete Guide appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cryptocurrency/how-to-buy-bitcoin-minetrix/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/Bitcoin-Minetrix.jpg",
+            "publishedAt": "2023-11-27T11:55:20Z",
+            "content": "Bitcoin Minetrix is a crypto project aiming to bring Bitcoin mining to the masses using an innovative feature called stake-to-mine. You no longer need expensive Bitcoin mining hardware and electricit… [+12517 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan DeFrancesco",
+            "title": "Bitcoin is back (sort of)",
+            "description": "A recent surge in bitcoin's price is the latest win for what has quietly been a strong year for crypto.",
+            "url": "https://www.businessinsider.com/news-today-november-10-bitcoin-etf-market-ether-crypto-2023-11",
+            "urlToImage": "https://i.insider.com/654d5b6f3cc84b4dfaffcb5e?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T13:43:28Z",
+            "content": "Malte Mueller/Getty Images\r\n<ul>\n<li>This post originally appeared in the Insider Today newsletter.</li>\n<li>You can sign up for Insider's daily newsletter here.</li>\n</ul>Happy Friday! A bit of insp… [+7494 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg, Andrew Couts",
+            "title": "The Startup That Transformed the Hack-for-Hire Industry",
+            "description": "Plus: The FBI's baffling inaction on a ransomware group, a massive breach of Danish electric utilities, and more.",
+            "url": "https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/",
+            "urlToImage": "https://media.wired.com/photos/6557ed60591547359b3c7022/191:100/w_1280,c_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
+            "publishedAt": "2023-11-18T14:00:00Z",
+            "content": "If youre looking for a long read to while away your weekend, weve got you covered. First up, WIRED senior reporter Andy Greenberg reveals the wild story behind the three teenage hackers who created t… [+4469 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "'We have no intention of selling': El Salvador's millennial president touts the country's bitcoin investment as the token soars",
+            "description": "Nayib Bukele said if El Salvador sold all its bitcoin at current prices, it would recover 100% of its investment and see a profit more than $3,600,000.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-el-salvador-bukele-millennial-president-profits-crypto-btc-2023-12",
+            "urlToImage": "https://i.insider.com/656de75b58e7c0c29a29222b?width=1200&format=jpeg",
+            "publishedAt": "2023-12-04T15:52:51Z",
+            "content": "Bitcoin breached $42,000 on Monday for the first time in 20 months, and El Salvador's millennial president Nayib Bukele took to X to tout his country's investment in the crypto amid the big gains. \r\n… [+1237 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Coinbase Will Completely Remove Bitcoin SV By January 9",
+            "description": "Long-time Slashdot reader UnknowingFool writes: Coinbase, America's largest cryptocurrency exchange, has announced they are completely removing all support for Bitcoin SV (BSV) by January 9. All current holders of that cryptocurrency on the exchange will need…",
+            "url": "https://slashdot.org/story/23/11/07/2214210/coinbase-will-completely-remove-bitcoin-sv-by-january-9",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2023-11-07T22:50:00Z",
+            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aruni Soni",
+            "title": "Top bitcoin miners sold everything they produced last month and cashed out some of their own holdings as the token's price surged",
+            "description": "Cashing in on a stunning price rally, bitcoin miners sold all the tokens they minted in October, amounting to 15,492 worth $164 million.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-miners-btc-price-rally-spot-etf-supply-shortage-crypto-2023-11",
+            "urlToImage": "https://i.insider.com/654a98dc3cc84b4dfafe178e?width=1200&format=jpeg",
+            "publishedAt": "2023-11-07T21:22:18Z",
+            "content": "Bitcoin sign stock market data.Getty Images\r\n<ul>\n<li>Top bitcoin miners sold more tokens than they produced last month, according to data portal The Miner Mag.</li>\n<li>Thirteen public miners sold $… [+1984 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Yash Majithia",
+            "title": "How To Buy Bitcoin ETF Token – Complete Guide",
+            "description": "The Bitcoin ETF token (BTCETF) is a new crypto rapidly gaining popularity, primarily due to the excitement surrounding the launch […]\nThe post How To Buy Bitcoin ETF Token – Complete Guide appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cryptocurrency/how-to-buy-bitcoin-etf-token/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-3.31.12-1.png",
+            "publishedAt": "2023-11-27T17:08:34Z",
+            "content": "The Bitcoin ETF token (BTCETF) is a new crypto rapidly gaining popularity, primarily due to the excitement surrounding the launch of the first ‘Spot Bitcoin Exchange-Traded Fund (ETF).’\r\nBTCETF’s cha… [+14737 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Bitcoin surges past $42,000 as crypto gathers momentum",
+            "description": "According to a Dec. 3 Bloomberg report, Bitcoin topped $42,000 on Monday, extending its rally of over 150% since the […]\nThe post Bitcoin surges past $42,000 as crypto gathers momentum appeared first on ReadWrite.",
+            "url": "https://readwrite.com/bitcoin-surges-past-42000-as-crypto-gathers-momentum/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/Bitcoin-gathers-momentum.jpg",
+            "publishedAt": "2023-12-04T23:00:53Z",
+            "content": "According to a Dec. 3 Bloomberg report, Bitcoin topped $42,000 on Monday, extending its rally of over 150% since the start of 2023. The leading cryptocurrency is now at levels not seen since April 20… [+2202 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Bitcoin surges to its highest level in 2023, notching a 130% gain over the past year",
+            "description": "A short-squeeze in early Asia trading hours helped drive some of the day's gains, according to a report Coindesk.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-record-grayscale-etf-markets-regulators-investors-finance-2023-11",
+            "urlToImage": "https://i.insider.com/654cdec6b788914e5553230e?width=1200&format=jpeg",
+            "publishedAt": "2023-11-09T14:48:55Z",
+            "content": "Bitcoin surged to a new 2023 high Thursday, hovering near $37,000.SOPA Images / Getty\r\n<ul>\n<li>Bitcoin notched a new 2023 high Thursday, jumping 4.5% in 24 hours and hovering near $37,200.</li>\n<li>… [+2489 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "The biggest stablecoin player wants to be a major bitcoin miner - and it's investing $500 million to compete",
+            "description": "The stablecoin operator is looking to become a major bitcoin miner, constructing new facilities and taking stakes in other firms, Bloomberg reported.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-stablecoin-tether-mining-cryptocurrency-usdt-finance-crypto-2023-11",
+            "urlToImage": "https://i.insider.com/65565d9c36d588dc55d1b5dc?width=1200&format=jpeg",
+            "publishedAt": "2023-11-16T18:24:05Z",
+            "content": "Tether's incoming CEO, Paolo Ardoino.Tether\r\n<ul>\n<li>Tether is investing $500 million to enter bitcoin mining, Bloomberg reported.</li>\n<li>The $87 billion stablecoin operator has large coffers that… [+2153 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "JPMorgan dismantles the bullish argument for bitcoin, calling the crypto rally overdone",
+            "description": "Bitcoin spot ETFs outside of the US were met with limited interest from investors, JPMorgan said in a Wednesday note.",
+            "url": "https://markets.businessinsider.com/news/currencies/cryptocurrency-outlook-bitcoin-price-rally-halving-etf-sec-mining-jpmorgan-2023-11",
+            "urlToImage": "https://i.insider.com/654cd98b36d588dc55cda56f?width=1200&format=jpeg",
+            "publishedAt": "2023-11-09T15:29:08Z",
+            "content": "KanawatTH/Getty Images\r\n<ul>\n<li>The latest crypto rally is \"rather overdone,\" JPMorgan wrote in a note this week.</li>\n<li>The possible launch of bitcoin spot ETFs in the US is unlikely to bring in … [+2815 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Bitcoin is up 120% this year. Here's the bear case that could derail the rally.",
+            "description": "Crypto players are bullish on the approval of a potential spot bitcoin ETF and 2024's halving event, but macro forces could stall the rally.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-outlook-bear-case-rally-halving-spot-etf-regulators-2023-11",
+            "urlToImage": "https://i.insider.com/6554c65e4ca513d82429ae04?width=1200&format=jpeg",
+            "publishedAt": "2023-11-15T15:52:18Z",
+            "content": "A pile of Bitcoin slugs sit in a box ready to be minted on April 26, 2013 in Sandy, Utah.George Frey/Getty Images/AFP/File\r\n<ul>\n<li>Bitcoin has climbed roughly 117% in 2023.</li>\n<li>Bullishness aro… [+4054 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "Remote mountain Kingdom of Bhutan is operating secret, state-owned Bitcoin mining facilities, report says",
+            "description": "The remote Himalayan kingdom has never publicly announced its Bitcoin operations, but it has been seeking to diversify its economy.",
+            "url": "https://www.businessinsider.com/bhutan-running-secret-state-owned-bitcoin-mining-facilities-in-himalayas-2023-11",
+            "urlToImage": "https://i.insider.com/6561d017fe5bc6545ebbdddb?width=1200&format=jpeg",
+            "publishedAt": "2023-11-25T15:19:19Z",
+            "content": "Paro Taktsang, BhutanShutterstock\r\n<ul><li>Forbes said it had identified the sites of four secret, state-owned Bitcoin mining facilities in Bhutan.</li><li>The publication used satellite imagery to i… [+2406 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Charlie Munger was still a master of the one-liner in his 90s, calling crypto 'venereal disease' and AI overhyped",
+            "description": "The \"Oracle of Pasadena\" leaves behind decades' worth of zingers, including savage takedowns of bitcoin and other cryptocurrencies.",
+            "url": "https://markets.businessinsider.com/news/stocks/charlie-munger-dies-warren-buffett-berkshire-hathaway-bitcoin-crypto-ai-2023-11",
+            "urlToImage": "https://i.insider.com/656702f5fd6200867dd073f4?width=1200&format=jpeg",
+            "publishedAt": "2023-11-29T10:28:52Z",
+            "content": "Legendary investor Charlie Munger died Tuesday aged 99.Nati Harnik/AP\r\n<ul>\n<li>Charlie Munger, who died Tuesday, was as well-known for his signature wit as he was for his investing success.</li>\n<li… [+3285 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Maxwell William",
+            "title": "MicroStrategy expands Bitcoin portfolio with $593M purchase",
+            "description": "Business intelligence firm MicroStrategy has made a significant move in the cryptocurrency market, purchasing an additional 16,130 Bitcoins for approximately […]\nThe post MicroStrategy expands Bitcoin portfolio with $593M purchase appeared first on ReadWrite.",
+            "url": "https://readwrite.com/microstrategy-expands-bitcoin-portfolio-with-593m-purchase/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/pexels-david-mcbee-730547-scaled.jpg",
+            "publishedAt": "2023-11-30T17:47:34Z",
+            "content": "Business intelligence firm MicroStrategy has made a significant move in the cryptocurrency market, purchasing an additional 16,130 Bitcoins for approximately $593.3 million. This latest acquisition b… [+2038 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "US stocks rise as traders try to regain momentum after hawkish Fed comments",
+            "description": "The S&P 500 broke an eight-day winning streak on Thursday. Markets are assessing the interest rate outlook after hawkish comments from Jerome Powell.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-hawkish-fed-wall-street-investors-2023-11",
+            "urlToImage": "https://i.insider.com/654e3b8d3cc84b4dfafff35d?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T14:39:54Z",
+            "content": "NYSE\r\n<ul>\n<li>US stocks climbed as investors tried to power past hawkish comments from Jerome Powell a day earlier. </li>\n<li>The Fed chief warned Thursday that further policy tightening is still on… [+2624 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Bitcoin supply hits historic low as long-term investors hoard tokens at record levels",
+            "description": "Long-term investors \"historically wait for the market to break to new price [all-time highs] before ramping up their distribution.\"",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-supply-cryptocurrency-historic-low-hoard-tokens-etf-halving-price-2023-11",
+            "urlToImage": "https://i.insider.com/603b599987d37600190d0458?width=1200&format=jpeg",
+            "publishedAt": "2023-11-08T17:22:58Z",
+            "content": "FILE PHOTO: Bitcoin token is seen placed on a monitor that displays binary digits in this illustration pictureReuters\r\n<ul>\n<li>Bitcoin's supply in circulation is extremely low as long-term investors… [+2116 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Ether spikes 10% to its highest level in 6 months as BlackRock files for a spot ETF backed by the crypto",
+            "description": "The $8.5 trillion asset manager is seeking to list the ethereum product on the Nasdaq exchange, and the news sparked a crypto rally.",
+            "url": "https://markets.businessinsider.com/news/currencies/ether-price-crypto-blackrock-spot-etf-ethereum-bitcoin-token-markets-2023-11",
+            "urlToImage": "https://i.insider.com/654e355236d588dc55ce5289?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T14:21:26Z",
+            "content": "BlackRock CEO Larry Fink.Michael M. Santiago/Getty Images\r\n<ul>\n<li>Ether jumped 10% to a six-month high before paring some of those gains on Friday. </li>\n<li>BlackRock, the $8.5 trillion asset mana… [+1590 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Maxwell William",
+            "title": "Bitcoin’s largest ever transaction fee: $3.1M mistake or intentional?",
+            "description": "A Bitcoin transaction on Thursday has set a new record for the highest transaction fee ever paid, amounting to a […]\nThe post Bitcoin’s largest ever transaction fee: $3.1M mistake or intentional? appeared first on ReadWrite.",
+            "url": "https://readwrite.com/bitcoins-largest-ever-transaction-fee-3-1m-mistake-or-intentional/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/Mt.-Gox-bankruptcy-saga.jpg",
+            "publishedAt": "2023-11-25T00:50:55Z",
+            "content": "A Bitcoin transaction on Thursday has set a new record for the highest transaction fee ever paid, amounting to a staggering $3.1 million. This transaction, mined in block 818087, marks a historic mom… [+1892 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "Splitgate teams up with ZBD for Bitcoin rewards in tournaments",
+            "description": "ZBD has teamed up with 1047 Games to enable players to play the Portal shooter Splitgate for Bitcoin prizes.",
+            "url": "https://venturebeat.com/games/splitgate-teams-up-with-zbd-for-bitcoin-rewards-in-tournaments/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/11/zbd.jpg?w=1200&strip=all",
+            "publishedAt": "2023-11-30T08:00:00Z",
+            "content": "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more.\r\nZBD, a game-focused fintech firm creating … [+1006 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Investors have piled $1 billion into crypto funds in 2023, the 3rd-highest annual inflow on record",
+            "description": "In the last week alone, digital asset investment products took in $293 million, pushing the total amount above $1 billion for the year.",
+            "url": "https://markets.businessinsider.com/news/funds/bitcoin-price-crypto-funds-inflows-ether-outlook-investors-markets-cryptocurrency-2023-11",
+            "urlToImage": "https://i.insider.com/6552473a385143459e8bf866?width=1200&format=jpeg",
+            "publishedAt": "2023-11-13T17:26:25Z",
+            "content": "A man walks past an electric board showing exchange rates of various cryptocurrencies including Bitcoin (top L) at a cryptocurrencies exchange in Seoul, South Korea December 13, 2017REUTERS/Kim Hong-… [+1980 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Reddit's cofounder says the crypto winter will clean house - and hails bitcoin as gold for a new generation",
+            "description": "Alexis Ohanian, who paid $15,000 for ether worth over $100 million today, says the crypto industry's slump will shake out \"tourists and grifters.\"",
+            "url": "https://markets.businessinsider.com/news/currencies/reddit-ohanian-crypto-winter-bitcoin-gold-price-haven-asset-portfolio-2023-11",
+            "urlToImage": "https://i.insider.com/6555f41d36d588dc55d15521?width=1200&format=jpeg",
+            "publishedAt": "2023-11-16T11:42:37Z",
+            "content": "Alexis Ohanian.Pedro Fiúza/NurPhoto via Getty Images\r\n<ul>\n<li>Alexis Ohanian says the crypto winter will shake out \"tourists and grifters\" from the sector.</li>\n<li>The Reddit cofounder views bitcoi… [+2219 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "BlackRock files for spot Ethereum ETF with U.S. regulators",
+            "description": "BlackRock, the world’s largest asset manager, has filed an application with the U.S. Securities and Exchange Commission for an exchange-traded […]\nThe post BlackRock files for spot Ethereum ETF with U.S. regulators appeared first on ReadWrite.",
+            "url": "https://readwrite.com/blackrock-ethereum-etf/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/pexels-moose-photos-1036637.jpg",
+            "publishedAt": "2023-11-16T13:01:54Z",
+            "content": "BlackRock, the world’s largest asset manager, has filed an application with the U.S. Securities and Exchange Commission for an exchange-traded fund that would directly hold Ethereum. The proposed ETF… [+1469 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Short-seller Jim Chanos talks bitcoin, Tesla, AI, and the 'dark side of finance' in new interview. Here are the 4 best quotes.",
+            "description": "\"You have to understand that the crypto ecosystem is well-suited for the dark side of finance,\" he told the Institute for New Economic Thinking.",
+            "url": "https://markets.businessinsider.com/news/stocks/short-seller-jim-chanos-crypto-bitcoin-tesla-ai-tech-etf-2023-11",
+            "urlToImage": "https://i.insider.com/6149a7abc2c9630018f5883c?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T16:31:09Z",
+            "content": "David Orrell/CNBC/NBCU Photo Bank/NBCUniversal/Getty Images\r\n<ul>\n<li>Short seller Jim Chanos spoke with the Institute for New Economic Thinking about crypto, tesla, and AI.</li>\n<li>\"You have to und… [+3501 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Maxwell William",
+            "title": "Millions of crypto wallets at risk due to overlooked code flaw",
+            "description": "A tech entrepreneur’s forgotten Bitcoin password has led to the discovery of a significant security flaw affecting millions of crypto […]\nThe post Millions of crypto wallets at risk due to overlooked code flaw appeared first on ReadWrite.",
+            "url": "https://readwrite.com/millions-of-crypto-wallets-at-risk-due-to-overlooked-code-flaw/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/UK-cryptocurrency-guidelines.jpg",
+            "publishedAt": "2023-11-15T00:20:22Z",
+            "content": "A tech entrepreneur’s forgotten Bitcoin password has led to the discovery of a significant security flaw affecting millions of crypto wallets. This revelation, first reported by The Washington Post, … [+1491 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Kane Pepi",
+            "title": "10 New Upcoming Coinbase Listings to Watch in 2023",
+            "description": "Coinbase is not only the second-largest cryptocurrency exchange globally, but it has a solid regulatory framework. Now a public entity […]\nThe post 10 New Upcoming Coinbase Listings to Watch in 2023 appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cryptocurrency/new-coinbase-listings/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/new-coinbase-listings.png",
+            "publishedAt": "2023-11-30T11:12:08Z",
+            "content": "Coinbase is not only the second-largest cryptocurrency exchange globally, but it has a solid regulatory framework. Now a public entity on the NASDAQ, Coinbase is one of the most sought-after exchange… [+22951 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Kane Pepi",
+            "title": "13 Best ICOs to Invest in 2023",
+            "description": "ICOs are the best way to invest in brand-new cryptocurrencies before they explode. Ethereum, Filecoin, Chainlink, and many other billion-dollar […]\nThe post 13 Best ICOs to Invest in 2023  appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cryptocurrency/upcoming-icos/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/upcoming-icos.png",
+            "publishedAt": "2023-11-28T15:16:32Z",
+            "content": "ICOs are the best way to invest in brand-new cryptocurrencies before they explode. Ethereum, Filecoin, Chainlink, and many other billion-dollar cryptocurrencies raised funds via ICO campaigns, so thi… [+26042 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Deanna Ritchie",
+            "title": "Israel combats militant financing via cryptocurrency",
+            "description": "Israel has been actively fighting against the financing of Iran-supported militant groups like Hamas and Hezbollah. A new aspect of this […]\nThe post Israel combats militant financing via cryptocurrency appeared first on ReadWrite.",
+            "url": "https://readwrite.com/israel-combats-militant-financing-via-cryptocurrency/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/financing-via-cryptocurrency.png",
+            "publishedAt": "2023-11-30T01:11:30Z",
+            "content": "Israel has been actively fighting against the financing of Iran-supported militant groups like Hamas and Hezbollah. A new aspect of this continuous battle is the rising popularity of the cryptocurren… [+2335 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ransomware hackers 'wreaking havoc' arrested in Ukraine",
+            "description": "Cyber police carry out raids to dismantle gang responsible for hacking hundreds of organisations.",
+            "url": "https://www.bbc.co.uk/news/technology-67556607",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D17/production/_131838927_8d1bc006-7ca1-482e-b4b3-82aa62a25b52.jpg",
+            "publishedAt": "2023-11-28T13:15:24Z",
+            "content": "European cyber police have arrested a 32-year-old suspected of being the ringleader of a ransomware gang operating in Ukraine.\r\nIn raids across the country authorities seized laptops and arrested fou… [+2450 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Dow rises 391 points as US stocks close out another winning week",
+            "description": "Treasury yields stabilized after Thursday's volatility as the Dow, S&P 500, and Nasdaq all advanced to finish the week higher.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-investors-indexes-fed-rate-hikes-inflation-2023-11",
+            "urlToImage": "https://i.insider.com/654e8ed636d588dc55cec32c?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T21:04:33Z",
+            "content": "Traders work on the floor of the NYSE in New YorkBrendan McDermid/Reuters\r\n<ul>\n<li>US stocks climbed Friday, with the Dow jumping by almost 400 points.</li>\n<li>Stocks rebounded after falling on Thu… [+3010 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Mt. Gox bankruptcy saga inches closer to creditor repayment",
+            "description": "Nearly ten years after its infamous collapse, the Mt. Gox cryptocurrency exchange saga may finally be nearing resolution. According to […]\nThe post Mt. Gox bankruptcy saga inches closer to creditor repayment appeared first on ReadWrite.",
+            "url": "https://readwrite.com/mt-gox-bankruptcy-saga-inches-closer-to-creditor-repayment/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/Mt.-Gox-bankruptcy-saga.jpg",
+            "publishedAt": "2023-11-22T23:00:50Z",
+            "content": "Nearly ten years after its infamous collapse, the Mt. Gox cryptocurrency exchange saga may finally be nearing resolution.\r\nAccording to a Nov. 22 The Block report, Mt. Gox bankruptcy trustee Nobuaki … [+1763 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "US stocks trade mixed as S&P 500, Nasdaq extend winning streaks ahead of Powell's remarks",
+            "description": "Fed Chairman Jerome Powell is set to speak Thursday during a panel discussion about monetary policy.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-winning-streak-fed-jerome-powell-2023-11",
+            "urlToImage": "https://i.insider.com/654bf33d36d588dc55cd5b6b?width=1200&format=jpeg",
+            "publishedAt": "2023-11-08T21:12:54Z",
+            "content": "Getty Images\r\n<ul>\n<li>US stocks finished mixed on Wednesday as the S&P 500 and Nasdaq extended their winning streaks.</li>\n<li>Investors are awaiting comments from Fed Chairman Jerome Powell on Thur… [+2274 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Bitcoin breaks $40k as momentum builds",
+            "description": "Bitcoin has broken above $40,000 for the first time this year as it rides a wave of momentum on broad enthusiasm about U.S. interest rate cuts and as traders anticipate the imminent approval of U.S.-stockmarket traded bitcoin funds.",
+            "url": "https://www.reuters.com/markets/currencies/bitcoin-hits-40000-level-first-time-this-year-2023-12-03/",
+            "urlToImage": "https://www.reuters.com/resizer/HcptAJJkSp8HpHdex6n8Ks16WzA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CJ7MYCX2U5NHTNNZI4MMFWUTE4.jpg",
+            "publishedAt": "2023-12-04T05:33:46Z",
+            "content": "TOKYO, Dec 4 (Reuters) - Bitcoin has broken above $40,000 for the first time this year as it rides a wave of momentum on broad enthusiasm about U.S. interest rate cuts and as traders anticipate the i… [+1743 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "US stocks end mixed as November rally stumbles amid fresh economic data",
+            "description": "Industrial production and jobless claims pointed to a slowing economy, which could lead the Fed to declare mission accomplished on rate hikes.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-november-rally-investors-traders-2023-11",
+            "urlToImage": "https://i.insider.com/6556797336d588dc55d1e623?width=1200&format=jpeg",
+            "publishedAt": "2023-11-16T21:05:46Z",
+            "content": "Traders work on the floor of the NYSEThomson Reuters\r\n<ul>\n<li>US stocks dropped on Thursday as traders took in fresh economic data. </li>\n<li>Industrial production fell 0.6% in October, more than th… [+3184 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Every Bitcoin payment 'uses a swimming pool of water'",
+            "description": "As billions face water shortages, a new study warns of the cryptocurrency's thirst for water.",
+            "url": "https://www.bbc.com/news/technology-67564205",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EB4/production/_131848658_gettyimages-1016926806.jpg",
+            "publishedAt": "2023-11-29T17:44:49Z",
+            "content": "By Chris VallanceTechnology reporter, BBC News\r\nEvery Bitcoin transaction uses, on average, enough water to fill \"a back yard swimming pool\", a new study suggests.\r\nThat's around six million times mo… [+3954 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Chris Matthews",
+            "title": "Crypto: Grayscale CEO: Bitcoin gains show a ‘flight to quality’ amid economic uncertainty",
+            "description": "Grayscale CEO Michael Sonnenshein says his company is \"engaging\" with the SEC to get necessary approvals for a bitcoin spot ETF.",
+            "url": "https://www.marketwatch.com/story/grayscale-ceo-bitcoin-gains-show-a-flight-to-quality-amid-economic-uncertainty-d31f0189",
+            "urlToImage": "https://images.mktw.net/im-883866/social",
+            "publishedAt": "2023-11-09T12:00:00Z",
+            "content": "Grayscale CEO Michael Sonnenshein is riding high after a federal court rebuffed regulators attempts to block his companys proposed bitcoin exchange-traded fund that could pave the way for the product… [+2955 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aruni Soni",
+            "title": "The dogecoin community is planning to launch a physical token to the moon in December",
+            "description": "Space robotics company Astrobotic is sending a cargo to the moon that will include a physical dogecoin, among other things.",
+            "url": "https://markets.businessinsider.com/news/currencies/crypto-elon-musk-bitcoin-dogecoin-token-meme-spacex-mission-moon-2023-11",
+            "urlToImage": "https://i.insider.com/65565e9336d588dc55d1b7c1?width=1200&format=jpeg",
+            "publishedAt": "2023-11-16T20:08:27Z",
+            "content": "Dogecoin was started as a joke in 2013.Yuriko Nakao/Getty Images\r\n<ul>\n<li>A physical dogecoin token is due to take a trip to the moon aboard Astrobotic's Peregrine Mission One.</li>\n<li>The lunar la… [+1621 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Frances Yue",
+            "title": "Distributed Ledger: Why bitcoin ETFs launch won’t be a ‘buy the rumor, sell the news’ event",
+            "description": "Welcome back to Distributed Ledger. This is Frances Yue, reporter at MarketWatch. The crypto space has seen several cases where the popular strategy “buy the...",
+            "url": "https://www.marketwatch.com/story/why-bitcoin-etfs-launch-wont-be-a-buy-the-rumor-sell-the-news-event-9ae2a04c",
+            "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+            "publishedAt": "2023-11-16T21:36:00Z",
+            "content": "Welcome back to Distributed Ledger. This is Frances Yue, reporter at MarketWatch.The crypto space has seen several cases where the popular strategy buy the rumor, sell the news was applicable, meanin… [+3584 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Deanna Ritchie",
+            "title": "CoinDesk purchased by former NYSE president",
+            "description": "Former New York Stock Exchange President Tom Farley said earlier today that his company, Bullish, had purchased 100% of crypto-focused […]\nThe post CoinDesk purchased by former NYSE president appeared first on ReadWrite.",
+            "url": "https://readwrite.com/coindesk-purchased-by-former-nyse-president/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/CoinDesk-purchased-by-Bullish.jpg",
+            "publishedAt": "2023-11-20T21:00:57Z",
+            "content": "Former New York Stock Exchange President Tom Farley said earlier today that his company, Bullish, had purchased 100% of crypto-focused media company CoinDesk for an undisclosed amount. CoinDesk was s… [+1298 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jason Ma",
+            "title": "US stocks climb ahead of Thanksgiving as investors weigh lower oil prices and jobless claims",
+            "description": "The final reading of University of Michigan consumer sentiment survey showed that year-ahead expectations for inflation ticked up to 4.5%.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-jobless-claims-thanksgiving-2023-11",
+            "urlToImage": "https://i.insider.com/6554ea2936d588dc55d0cdbb?width=1200&format=jpeg",
+            "publishedAt": "2023-11-22T21:04:21Z",
+            "content": "The Charging Bull, or Wall Street Bull, is an icon of the stock market in Manhattan.Carlo Allegri/Reuters\r\n<ul>\n<li>US stocks climbed on Wednesday as Wall Street headed into the Thanksgiving holiday … [+2353 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "US stocks rise to start short trading week as investors assess rate outlook",
+            "description": "Investors have their eye on Nvidia, which will report third-quarter earnings tomorrow amid a wildly successful year so far.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-stocks-fed-rate-cut-outlook-2023-11",
+            "urlToImage": "https://i.insider.com/655b6bfa4ca513d8242c1ba4?width=1200&format=jpeg",
+            "publishedAt": "2023-11-20T14:35:35Z",
+            "content": "Michael M. Santiago/Getty Images\r\n<ul>\n<li>US stocks rose on Monday as investors looked ahead at the Fed's next rate move.</li>\n<li>Investors are pricing in a nearly 30% chance the Fed could cut rate… [+2192 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Max Adams",
+            "title": "US stocks rise ahead ahead of holiday as bond yields slip and traders assess jobs data",
+            "description": "Stocks were higher on Wednesday as investors prepared to wind down trading for Thanksgiving. Jobless claims fell to a five-week low.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-jobless-claims-oil-prices-bond-yields-2023-11",
+            "urlToImage": "https://i.insider.com/60ecbbd561b8600019f16b8b?width=1200&format=jpeg",
+            "publishedAt": "2023-11-22T14:38:23Z",
+            "content": "Weekly jobless claims dropped by 24,000, to 209,000.REUTERS/Nick Oxford\r\n<ul>\n<li>US stocks rose on Wednesday ahead of the Thanksgiving holiday. </li>\n<li>Investors were assessing jobless claims, whi… [+2065 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "US stocks trade mixed as investors turn their attention to upcoming October inflation report",
+            "description": "Investors are expecting inflation to have slowed slightly in October, but remain still above the Fed's 2% long-run target.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-october-inflation-report-fed-economy-rates-2023-11",
+            "urlToImage": "https://i.insider.com/5c7d4beb2628981604345fa4?width=1200&format=jpeg",
+            "publishedAt": "2023-11-13T21:09:22Z",
+            "content": "Investors are expecting inflation to have slowed slightly in October, but remain well-above the Fed's 2% long-run target.Reuters / Lucas Jackson\r\n<ul>\n<li>US stocks traded mixed on Monday as investor… [+2229 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aruni Soni",
+            "title": "US stocks dip but head for weekly gains as bond yields continue to drop",
+            "description": "The S&P 500, Nasdaq, and the Dow Jones Industrial Average are up about 2% or more this week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-weekly-gains-yields-2023-11",
+            "urlToImage": "https://i.insider.com/649d83b6695968001925d7ed?width=1200&format=jpeg",
+            "publishedAt": "2023-11-17T14:40:36Z",
+            "content": "Traders work on the floor of the New York Stock Exchange (NYSE) on March 28, 2023 in New York City.Spencer Platt/Getty Images\r\n<ul>\n<li>US stocks dipped Friday but are poised for weekly gains as bond… [+1717 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks edge higher as S&P 500 looks to extend streak while investors await Jerome Powell's speech",
+            "description": "Of the 90% of S&P 500 companies that have reported earnings so far, 82% beat profit estimates by a median of 7%, according to data from Fundstrat.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-sp500-9-day-win-streak-powell-speech-2023-11",
+            "urlToImage": "https://i.insider.com/654cea17b788914e555327da?width=1200&format=jpeg",
+            "publishedAt": "2023-11-09T14:40:27Z",
+            "content": "REUTERS/Brendan McDermid\r\n<ul><li>US stocks edged higher on Thursday as the S&P 500 looks to notch a nine-day winning streak.</li><li>The gains in stocks have come amid solid third-quarter earnings r… [+2060 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks edge lower as investors size up solid Black Friday sales results",
+            "description": "\"I would not look at strong Black Friday numbers as something the Fed has to panic about,\" Fundstrat's Tom Lee said in a Monday note.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-black-friday-sales-2023-11",
+            "urlToImage": "https://i.insider.com/5f3e984bcdf25a001e84e6f8?width=1200&format=jpeg",
+            "publishedAt": "2023-11-27T14:40:33Z",
+            "content": "Lucas Jackson/Reuters\r\n<ul><li>US stocks fell slightly on Monday as investors digested solid Black Friday retail sales data.</li><li>Consumers spent a record $9.8 billion online during the sales even… [+2095 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks extend gains as fresh inflation data show wholesale prices falling by the most since 2020",
+            "description": "\"Consumer spending momentum in Q4 will likely slow but the solid appetite for online shopping bodes well for the upcoming holiday sales period.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-wholesale-price-decline-inflation-continues-drop-2023-11",
+            "urlToImage": "https://i.insider.com/6554d2854ca513d82429b291?width=1200&format=jpeg",
+            "publishedAt": "2023-11-15T14:36:42Z",
+            "content": "REUTERS/Brendan McDermid\r\n<ul><li>US stocks jumped on Wednesday after new data showed a continued decline in inflation.</li><li>The producer price index fell by the most since April 2020 and came in … [+2480 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "US stocks jump as soft inflation data sends Treasury yields tumbling",
+            "description": "The annual rate on consumer inflation slowed to 3.2% in October, down from 3.7% in September and below views for 3.3%.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-treasury-bond-yields-cpi-inflation-fed-2023-11",
+            "urlToImage": "https://i.insider.com/655381fe58cf5fbccb960cfd?width=1200&format=jpeg",
+            "publishedAt": "2023-11-14T14:34:03Z",
+            "content": "THOMAS LOHNES/DDP/AFP/Getty Images\r\n<ul>\n<li>US stocks rocketed on Tuesday as consumer inflation slowed more than expected.</li>\n<li>Treasury yields plummeted as result, with the 10-year rate droppin… [+2081 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aruni Soni",
+            "title": "US stocks edge higher and notch 3rd consecutive week of gains",
+            "description": "Markets rode a wave of optimism this past week around the potential end of Fed policy tightening.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-rally-sp-500-dow-weekly-win-2023-11",
+            "urlToImage": "https://i.insider.com/6557bc364ca513d8242ba320?width=1200&format=jpeg",
+            "publishedAt": "2023-11-17T21:10:01Z",
+            "content": "(Photo by Michael Nagle/Xinhua via Getty Images)\r\n<ul>\n<li>US stocks edged higher on Friday and notched a third consecutive week of gains.</li>\n<li>That marked the longest weekly winning streaks for … [+1930 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "US stocks climb as investors look to extend gains following the best week of the year for the S&P 500",
+            "description": "The Dow, Nasdaq, and S&P 500 are all coming off of their strongest weekly performance of the year, with each gaining more than 5%.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-us-bond-yields-dow-nasdaq-2023-11",
+            "urlToImage": "https://i.insider.com/6548f6993cc84b4dfafce2be?width=1200&format=jpeg",
+            "publishedAt": "2023-11-06T14:32:10Z",
+            "content": "Traders work on the floor of the New York Stock Exchange (NYSE) on October 20, 2023 in New York City.Spencer Platt/Getty Images\r\n<ul>\n<li>US stocks climbed Monday as investors piled back into the mar… [+2406 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "US stocks trade mixed as investors digest the outlook for longer inflation fight by the Fed",
+            "description": "\"We haven't completely solved the inflation problem,\" Minneapolis Fed president Neel Kashkari said on Monday.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-economy-fed-inflation-interest-rates-outlook-2023-11",
+            "urlToImage": "https://i.insider.com/6525a0246561dd877e767c4c?width=1200&format=jpeg",
+            "publishedAt": "2023-11-07T14:39:08Z",
+            "content": "REUTERS/Brendan McDermid\r\n<ul>\n<li>US stocks traded mixed on Tuesday as investors worried about a longer inflation fight from the Fed.</li>\n<li>The Minneapolis Fed president warned the US has more wo… [+2365 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "US stocks fall after extended rally as investors look to Fed minutes and Nvidia earnings",
+            "description": "Investors are looking for clues about the strength of the latest rally, and are assessing the outlook for rates as markets head into year-end.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-rally-retail-fed-minutes-nvidia-earnings-2023-11",
+            "urlToImage": "https://i.insider.com/61dde3101025b20018bb38aa?width=1200&format=jpeg",
+            "publishedAt": "2023-11-21T14:47:14Z",
+            "content": "Andrew Harnik/AP Photo\r\n<ul>\n<li>The US stock rally faded ahead of the release of the Fed meeting minutes and Nvidia earnings</li>\n<li>Fed minutes will give investors a better grasp of where interest… [+2067 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "colton.stradling@gmail.com (Colton Stradling)",
+            "title": "A Ledger app on the Microsoft store may be fake and stealing your cryptocurrency",
+            "description": "According to a new post, There was a fake ledger app on the Microsoft store that has stolen $588,000 so far in Bitcoin.",
+            "url": "https://www.windowscentral.com/microsoft/a-ledger-app-on-the-microsoft-store-may-be-fake-and-stealing-your-cryptocurrency",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8rDrgkBoegUaXQabMewS2X-1200-80.jpg",
+            "publishedAt": "2023-11-05T10:00:16Z",
+            "content": "What you need to know\r\n<ul><li>A crypto investigator named @ZachXBT posted about the fake ledger app.</li><li>The app was named Ledger Live Web3.</li><li>The app was sending the Bitcoin to the scamme… [+2737 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Elvis Gwaro",
+            "title": "What Would Happen to Bitcoin and Crypto Without the Internet?",
+            "description": "Bitcoin, crypto, and the internet are inextricably linked. So what happens if the internet goes down for a prolonged period?",
+            "url": "https://www.makeuseof.com/can-bitcoin-crypto-exist-without-the-internet/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cryptocurrencies.jpg",
+            "publishedAt": "2023-11-09T11:45:16Z",
+            "content": "Key Takeaways\r\n<ul><li> Cryptocurrencies cannot exist without the internet as they rely on the internet for secure and direct transactions and to ensure the integrity of the blockchain database. </li… [+5825 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Threadreaderapp.com"
+            },
+            "author": null,
+            "title": "CTF Writeup: Abusing select() to factor RSA",
+            "description": "@moyix: Will still try to do a blog post on my @CSAW_NYUTandon CTF challenge, NERV Center, but for now here's a thread explaining the key mechanics. I put a lot of work into the aesthetics, like this...…",
+            "url": "https://threadreaderapp.com/thread/1723398619313603068.html",
+            "urlToImage": "https://threadreaderapp.com/images/screenshots/thread/1723398619313603068.jpg",
+            "publishedAt": "2023-11-11T19:59:39Z",
+            "content": "Support us! We are indie developers!\r\nThis site is made by just two indie developers on a laptop doing marketing, support and development! Read more about the story.\r\nBecome a Premium Member ($3/mont… [+395 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pranav Dixit",
+            "title": "A 'silly' attack made ChatGPT reveal real phone numbers and email addresses",
+            "description": "A team of researchers was able to make ChatGPT reveal some of the bits of data it has been trained on by using a simple prompt: asking the chatbot to repeat random words forever. In response, ChatGPT churned out people’s private information including email ad…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7469e1f3-6ca9-45f7-8c7b-41c018559bb5",
+            "urlToImage": null,
+            "publishedAt": "2023-11-29T20:05:46Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks close higher as investors cheer fresh data showing inflation is easing",
+            "description": "The producer price index fell 0.5% in October from the prior month, representing the largest decline since April 2020.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-fresh-data-inflation-continues-to-ease-2023-11",
+            "urlToImage": "https://i.insider.com/5f904263d25aab0018402c73?width=1200&format=jpeg",
+            "publishedAt": "2023-11-15T21:06:59Z",
+            "content": "Xinhua/Wang Ying/ Getty Images\r\n<ul><li>US stocks closed higher on Wednesday after more data showed a continued decline in inflation.</li><li>The producer price index fell by the most since April 202… [+2987 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "US stocks jump as bond yields slip and Microsoft shares surge",
+            "description": "All three benchmark indexes surged, with the Dow and the S&P 500 on track to notch their best monthly performance in over a year.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-microsoft-stock-price-sam-altman-dow-sp500-2023-11",
+            "urlToImage": "https://i.insider.com/603e859a87d37600190d0b0e?width=1200&format=jpeg",
+            "publishedAt": "2023-11-20T21:10:47Z",
+            "content": "Microsoft stock added around $54 billion in market value on Monday.TOBIAS SCHWARZ/AFP via Getty Images\r\n<ul>\n<li>Stocks soared Monday as as bond yields slipped and Microsoft stock surged to a new hig… [+2922 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Are US Treasurys still a safe-haven asset? Epic bond-market crash and rising default fears sow doubts",
+            "description": "Moody's lowered the US credit outlook to \"negative\" on Friday, signaling that a downgrade is possible in the future.",
+            "url": "https://markets.businessinsider.com/news/bonds/bond-market-crash-us-treasurys-safe-haven-asset-debt-default-2023-11",
+            "urlToImage": "https://i.insider.com/64ff0660a39a1b00190cfda2?width=1200&format=jpeg",
+            "publishedAt": "2023-11-12T13:30:01Z",
+            "content": "The Capitol building is seen through the American flags in Washington DC on October 20, 2022.Jakub Porzycki/NurPhoto/Getty Images\r\n<ul>\n<li>US Treasurys have long been the go-to asset when uncertaint… [+3686 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Analysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card (Justine Calma/The Verge)",
+            "description": "Justine Calma / The Verge:\nAnalysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card  —  Bitcoin mines aren't just energy-hungry, it turns out they're thirsty, t…",
+            "url": "https://www.techmeme.com/231130/p17",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/u5s2jUDZHR-OzDhMtHN0o3jFb9M=/0x0:4000x2667/1200x628/filters:focal(2000x1334:2001x1335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25118470/1184520932.jpg",
+            "publishedAt": "2023-11-30T12:50:06Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:55 AM ET, November 30, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+71 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks end lower as Black Friday and Cyber Monday sales come into focus",
+            "description": "Cyber Monday sales are expected to hit a record $12.0 billion to $12.4 billion, according to an estimate from Adobe Analytics.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-nasdaq-sp500-black-friday-cyber-monday-2023-11",
+            "urlToImage": "https://i.insider.com/65650031fe5bc6545ebca0ab?width=1200&format=jpeg",
+            "publishedAt": "2023-11-27T21:10:50Z",
+            "content": "Customers shop at Walmart's Black Friday event on Thursday, Nov. 26, 2015 in Rogers, ArkansasGunnar Rathbun/Invision for Walmart/AP Images\r\n<ul><li>US stocks were lower on Monday as investors focused… [+2674 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Bitcoin trades above $40K for the first time since May 2022 as it extends its 2023 rebound (Sunil Jagtiani/Bloomberg)",
+            "description": "Sunil Jagtiani / Bloomberg:\nBitcoin trades above $40K for the first time since May 2022 as it extends its 2023 rebound  —  - Expectations for first US spot Bitcoin ETFs propelling rally  — Crypto market also benefiting from hopes for Fed rate cuts  —  Bitcoin…",
+            "url": "https://www.techmeme.com/231203/p9",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTNK7L5JA_BA/v0/1200x785.jpg",
+            "publishedAt": "2023-12-03T23:16:55Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:20 PM ET, December 3, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo v… [+70 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "US stocks end 8-day win streak after hawkish comments from Jerome Powell",
+            "description": "\"If it becomes appropriate to tighten policy further, we will not hesitate to do so,\" Federal Reserve Chairman Jerome Powell said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-ends-win-streak-hawkish-powell-2023-11",
+            "urlToImage": "https://i.insider.com/654d428936d588dc55ce17ed?width=1200&format=jpeg",
+            "publishedAt": "2023-11-09T21:03:13Z",
+            "content": "The council met to deliver an update on the Council's Climate-related Financial Risk Committee and spoke on the transition from LIBOR.Kevin Dietsch/Getty Images\r\n<ul><li>US stocks fell on Thursday, e… [+2791 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "US stocks climb as investors look to continue momentum after best trading week of the year",
+            "description": "Markets are looking for a new catalyst to drive fresh gains after a big week. Morgan Stanley and JPMorgan both warned the rally looks set to fade.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-traders-wall-street-investors-finance-2023-11",
+            "urlToImage": "https://i.insider.com/6549421836d588dc55cba570?width=1200&format=jpeg",
+            "publishedAt": "2023-11-06T21:05:25Z",
+            "content": "Traders work on the floor of the NYSEThomson Reuters\r\n<ul>\n<li>US stocks climbed as traders tried to keep the rally going following the best week of 2023.</li>\n<li>Morgan Stanley and JPMorgan caution… [+3235 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Pritesh",
+            "title": "Cryptocurrency and Taxes: What Tech Entrepreneurs Need to Know",
+            "description": "Since its inception, cryptocurrency has transformed from a niche segment for tech enthusiasts to a mainstream financial tool. As the […]\nThe post Cryptocurrency and Taxes: What Tech Entrepreneurs Need to Know appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cryptocurrency-and-taxes-what-tech-entrepreneurs-need-to-know/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/Cryptocurrency-and-Taxes.jpg",
+            "publishedAt": "2023-11-23T14:00:59Z",
+            "content": "Since its inception, cryptocurrency has transformed from a niche segment for tech enthusiasts to a mainstream financial tool. As the digital currency ecosystem has grown, so has the attention of regu… [+6620 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "CFTC flexes its muscles with near 50 crypto cases related to digital assets",
+            "description": "The Commodity Futures Trading Commission brought a record number of enforcement actions related to digital assets in its 2023 fiscal […]\nThe post CFTC flexes its muscles with near 50 crypto cases related to digital assets appeared first on ReadWrite.",
+            "url": "https://readwrite.com/cftc-flexes-its-muscles-with-near-50-crypto-cases-related-to-digital-assets/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/crypto-cases-related-to-digital-assets.jpg",
+            "publishedAt": "2023-11-09T19:30:27Z",
+            "content": "The Commodity Futures Trading Commission brought a record number of enforcement actions related to digital assets in its 2023 fiscal year, stepping up its oversight of the nascent crypto market, acco… [+4155 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Each Bitcoin transaction uses 4,200 gallons of water — enough to fill a swimming pool — and could potentially cause freshwater shortages",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_497e94be-8a39-43a5-b67d-71ad62a9637f",
+            "urlToImage": null,
+            "publishedAt": "2023-12-03T12:43:37Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tessa Campbell",
+            "title": "Forbes is shutting down its investing app — consider these 8 alternative automated investing apps",
+            "description": "Forbes is shutting down its AI-powered investment app in December. Here are 8 alternative AI-powered apps and robo-advisors. Start investing today.",
+            "url": "https://www.businessinsider.com/personal-finance/forbes-shutting-down-investing-app-alternative-apps-2023-11",
+            "urlToImage": "https://i.insider.com/654d2f0136d588dc55ce0729?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T12:34:01Z",
+            "content": "Our experts answer readers' investing questions and write unbiased product reviews (here's how we assess investing products). Paid non-client promotion: In some cases, we receive a commission from ou… [+9361 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Oluwademilade Afolabi",
+            "title": "Crypto Slang: 25 Crypto Terms and Their Meanings Explained",
+            "description": "Want to level up your crypto convo game? We've got you covered.",
+            "url": "https://www.makeuseof.com/crypto-meanings-slang-terms-expained/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/crypto-written-on-a-torn-piece-of-newspaper.jpg",
+            "publishedAt": "2023-11-07T13:00:21Z",
+            "content": "If you're new to cryptocurrency, you've probably felt left out when investors and enthusiasts throw around strange terms. What's the meaning behind all these crypto terms? But don't worry: this is th… [+7607 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hasan Chowdhury",
+            "title": "Charlie Munger's last big call was probably right: AI is overhyped",
+            "description": "The legendary vice chair of Berkshire Hathaway, who passed away at the age of 99, was unconvinced by ChatGPT-fuelled hype.",
+            "url": "https://www.businessinsider.com/charlie-munger-may-have-been-right-about-ai-skepticism-2023-11",
+            "urlToImage": "https://i.insider.com/656723bffe5bc6545ebd3cd0?width=1200&format=jpeg",
+            "publishedAt": "2023-11-29T15:59:19Z",
+            "content": "Charlie Munger thought AI was overhyped. Nati Harnik/AP Photo\r\n<ul><li>Charlie Munger, who passed away Tuesday at the age of 99, had a last big call on AI: it's overhyped.</li><li>The legendary inves… [+3938 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@insider.com (Filip De Mott)",
+            "title": "Michael Saylor's MicroStrategy makes its biggest bitcoin purchase in years as Wall Street grows more bullish",
+            "description": "The software firm added $593.3 million worth of bitcoin in November, as Michael Saylor looks to acquire as much bitcoin as possible.",
+            "url": "https://markets.businessinsider.com/news/currencies/microstrategy-michael-saylor-bitcoin-bullishness-cryptocurrency-etf-digital-asset-tokens-2023-11",
+            "urlToImage": "https://i.insider.com/60ca262123393a00188e3872?width=1200&format=jpeg",
+            "publishedAt": "2023-11-30T20:23:09Z",
+            "content": "MicroStrategy bought $593.3 million worth of bitcoin this month, marking the firm's largest purchase in nearly three years.\r\nA Thursday filing disclosed that the company added 16,130 tokens to its ho… [+1446 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Every Bitcoin payment 'uses a swimming pool of water'",
+            "description": "As billions face water shortages, a new study warns of the cryptocurrency's thirst for water.",
+            "url": "https://www.bbc.co.uk/news/technology-67564205",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EB4/production/_131848658_gettyimages-1016926806.jpg",
+            "publishedAt": "2023-11-29T15:59:41Z",
+            "content": "Every Bitcoin transaction uses, on average, enough water to fill \"a back yard swimming pool\", a new study suggests.\r\nThat's around six million times more than is used in a typical credit card swipe, … [+3095 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Small Business Trends"
+            },
+            "author": "Samson Haileyesus",
+            "title": "8 Best Cryptocurrency Wallet Options for Secure Transactions",
+            "description": "Whether you choose a hard or soft wallet, here are some of the best cryptocurrency wallet options available to safely store your currency.",
+            "url": "https://smallbiztrends.com/2023/11/best-cryptocurrency-wallet.html",
+            "urlToImage": "https://media.smallbiztrends.com/2023/11/best-cryptocurrency-wallet-trezor-suite-lite-1-e1699637471473.png",
+            "publishedAt": "2023-11-10T18:00:34Z",
+            "content": "Cryptocurrencies are rapidly changing the way we do business online. These digital currencies are driving significant changes in the trading of digital assets, physical products, and services. One of… [+17794 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Scarcella",
+            "title": "Venmo, Cash App users sue Apple over peer-to-peer payment fees",
+            "description": "Apple Inc <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has been sued by Venmo and Cash App customers in a proposed class action claiming the iPhone maker abused its market power to curb competition for mobile peer-to…",
+            "url": "https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/",
+            "urlToImage": "https://www.reuters.com/resizer/wmHLH5gR3N6xizRI2NeWsf7qCN0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K72KGEXRJJJ4PEHSXZTRXSF5KI.jpg",
+            "publishedAt": "2023-11-20T19:27:06Z",
+            "content": "Nov 20 (Reuters) - Apple Inc (AAPL.O) has been sued by Venmo and Cash App customers in a proposed class action claiming the iPhone maker abused its market power to curb competition for mobile peer-to… [+2550 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "NinjaTrader Review 2023",
+            "description": "Our NinjaTrader review breaks down the features of this platform for trading futures, including fees, plan types, and tools. Start investing today.",
+            "url": "https://www.businessinsider.com/personal-finance/ninjatrader-review",
+            "urlToImage": "https://i.insider.com/654a8cb23cc84b4dfafe06d4?width=1200&format=jpeg",
+            "publishedAt": "2023-11-08T00:29:57Z",
+            "content": "Our experts answer readers' investing questions and write unbiased product reviews (here's how we assess investing products). Paid non-client promotion: In some cases, we receive a commission from ou… [+13194 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits",
+            "description": "The Kinsing threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits.\n\"Once Kinsing infects a system, it deploys a cryptocurrency mining script that ex…",
+            "url": "https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4KhzH9UnAw-GrWXeqIydcz7ULtFdgMa0awxDLUKM0aidggh89UJeJbxTpW67xFccd4KWB-mTQe4YxvSlP6-Cs1rwkdQymUj5wQV5_YAHB0yPUeR5p764mY-LXutur0Sr5yCFZkFpP2tK6N-UsRYJNKBSRoWb3g_5BVQk3sjc6SGovTH-5PoBHbCqW0LH/s728-rw-ft-e30/linux.jpg",
+            "publishedAt": "2023-11-21T10:00:00Z",
+            "content": "The Kinsing threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits.\r\n\"Once Kinsing infect… [+1757 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Bitcoin could jump 10% as it makes bullish moves heading into year-end, technical analyst says",
+            "description": "\"Our intermediate-term trend-following indicators support a bullish bias for the next several weeks,\" Fairlead Strategies' Katie Stockton said.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-outlook-btc-bullish-technical-price-action-upside-crypto-2023-11",
+            "urlToImage": "https://i.insider.com/65663337fe5bc6545ebd0580?width=1200&format=jpeg",
+            "publishedAt": "2023-11-28T20:00:04Z",
+            "content": "Bitcoin has been on a tear in 2023, and the gains could continue as bullish trends persist into year-end, according to Fairlead Strategies founder Katie Stockton.\r\nFollowing a dismal 2022, bitcoin ha… [+1625 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "title": "‘Massive Calamity’—BlackRock And The U.S. Government Could Be About To ‘Kill’ Bitcoin Amid Huge Ethereum, XRP And Crypto Price Rally",
+            "description": "Legendary bitcoin and crypto trader Arthur Hayes has warned that bitcoin and crypto could be sleepwalking toward \"massive calamity,\" warning BlackRock and the U.S. could be about to \"kill\" bitcoin...",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/11/08/sleepwalking-toward-massive-calamity-blackrock-and-the-us-government-could-be-about-to-kill-bitcoin-amid-huge-ethereum-xrp-and-crypto-price-rally/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654a3c8774d551b029a1559e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-08T13:57:42Z",
+            "content": "11/08 update below. This post was originally published on November 7\r\nBitcoinBTC\r\n has been turbo-charged in recent months by soaring expectations the world's largest asset manager, BlackRockBLK\r\n, c… [+5834 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "title": "Sleepwalking Toward ‘Massive Calamity’—BlackRock And The U.S. Government Could Be About To ‘Kill’ Bitcoin Amid Huge Ethereum, XRP And Crypto Price Rally",
+            "description": "Legendary bitcoin and crypto trader Arthur Hayes has warned that bitcoin and crypto could be sleepwalking toward \"massive calamity,\" warning BlackRock and the U.S. could be about to \"kill\" bitcoin...",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/11/07/sleepwalking-toward-massive-calamity-blackrock-and-the-us-government-could-be-about-to-kill-bitcoin-amid-huge-ethereum-xrp-and-crypto-price-rally/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654a3c8774d551b029a1559e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-07T14:06:27Z",
+            "content": "BitcoinBTC\r\n has been turbo-charged in recent months by soaring expectations the world's largest asset manager, BlackRockBLK\r\n, could be about to lead a Wall Street bull run (though some credit a sho… [+4338 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Susie Violet Ward, Contributor, \n Susie Violet Ward, Contributor\n https://www.forbes.com/sites/susievioletward/",
+            "title": "Spot Bitcoin ETF Decision Fuels Bullish Surge: Market Eyes $40K Milestone",
+            "description": "The signs are favorable for bitcoin, with a possible SEC nod for a spot bitcoin ETF bolstering the market's confidence.",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/11/09/spot-bitcoin-etf-decision-fuels-bullish-surge-market-eyes-40k-milestone/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654cc9eaedeeada12079bf49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-09T12:10:17Z",
+            "content": "Photo by Thomas Trutschel\r\nPhotothek via Getty Images\r\nBitcoin'sBTC\r\n market dynamics are in constant flux, with the latest trends pointing towards a promising increase in its value.The one-month cal… [+2789 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@insider.com (Filip De Mott)",
+            "title": "Bitcoin, gold, and silver should jump as the Fed pivots, but China's yuan faces structural problems, Mike Novogratz says",
+            "description": "\"Gold, silver, bitcoin really all should do well if the Fed is finished hiking rates and starting to cut.\"",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-gold-silver-cryptocurrency-fed-pivot-china-yuan-mike-novogratz-2023-11",
+            "urlToImage": "https://i.insider.com/65679462c58b6f84123b7798?width=1200&format=jpeg",
+            "publishedAt": "2023-11-29T21:00:17Z",
+            "content": "Upside is coming for assets such as bitcoin, gold, and silver as the Federal Reserve shifts its monetary policy, Galaxy Digital CEO Mike Novogratz told Bloomberg TV. \r\nWhen the central bank turns fro… [+1393 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Crypto stocks have notched blistering triple-digit rallies this year",
+            "description": "Some crypto-linked names have gained over 250% this year, and bitcoin itself has climbed more than 130%.",
+            "url": "https://markets.businessinsider.com/news/stocks/crypto-stocks-coinbase-microstrategy-riot-marathon-bitcoin-ether-ftx-binance-2023-12",
+            "urlToImage": "https://i.insider.com/6569edf858e7c0c29a28a596?width=1200&format=jpeg",
+            "publishedAt": "2023-12-01T17:11:01Z",
+            "content": "Artificial intelligence names like Nvidia and Microsoft have commanded Wall Street's attention in 2023, but there's another corner of the market that's enjoying impressive gains as well this year. \r\n… [+2450 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "title": "SEC Leak Reveals Sudden $17.7 Trillion Bitcoin ETF ‘Update’—Sparking Crypto Price Surge",
+            "description": "The bitcoin price has more than doubled over the last 12 months, propelling bitcoin and crypto back into the limelight...",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/11/18/sec-leak-reveals-sudden-177-trillion-bitcoin-etf-update-sparking-crypto-price-surge/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f3ee62ffb31aab95c122ce6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-18T12:45:57Z",
+            "content": "BitcoinBTC\r\n is tightly wound after surging higher over the last two months (with Coinbase this week revealing a new multi-trillion dollar opportunity).\r\nSubscribenow to Forbes' CryptoAsset &amp; Blo… [+3335 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Abubakar Nur Khalil, Contributor, \n Abubakar Nur Khalil, Contributor\n https://www.forbes.com/sites/abubakarnurkhalil/",
+            "title": "Nigerian Bitcoin Miner, Trojan Mining, Launch 500KW Hydro Mining Site",
+            "description": "On Saturday, Nov 18, Nigerian bitcoin mining company, Trojan Mining, announced their new 500KW hydro-powered bitcoin mining facility.",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/11/20/nigerian-bitcoin-miner-trojan-mining-launch-500kw-hydro-mining-site/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655b45aec15beb7d645f6e58/0x0.jpg?format=jpg&crop=1080,507,x0,y80,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-20T21:06:18Z",
+            "content": "Trojan Mining team at their new 500KW hydro-powered facility in Nigeria\r\nTrojan Mining\r\nOn Saturday, Nov 18, Trojan Mining, a Nigerian bitcoin mining company, announced their work-in-progress 500KW h… [+3144 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Elijahj Williams",
+            "title": "The Rise of Remote Developers: Trends and Statistics",
+            "description": "Remote development for software solutions is on the rise, and it is changing the way companies hire. This trend is […]\nThe post The Rise of Remote Developers: Trends and Statistics appeared first on ReadWrite.",
+            "url": "https://readwrite.com/the-rise-of-remote-developers-trends-and-statistics/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/Remote-Developers.jpg",
+            "publishedAt": "2023-11-07T17:01:18Z",
+            "content": "Remote development for software solutions is on the rise, and it is changing the way companies hire. This trend is likely to continue for several reasons: it makes businesses more efficient and offer… [+7396 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "watcher.guru",
+            "title": "Michael Saylor’s MicroStrategy Bitcoin sits at $1 Billion Profit",
+            "description": "Michael Saylor’s MicroStrategy Bitcoin investment is now at a $1,000,000,000 unrealized profit, according to Saylor’s profile tracker. Amid Bitcoin ETF approval expectations, his stash of Bitcoin has grown plenty over the past few weeks. JUST IN: Michael Sayl…",
+            "url": "https://biztoc.com/x/244215d41d6e846b",
+            "urlToImage": "https://c.biztoc.com/p/244215d41d6e846b/s.webp",
+            "publishedAt": "2023-11-09T19:40:15Z",
+            "content": "Michael Saylors MicroStrategy Bitcoin investment is now at a $1,000,000,000 unrealized profit, according to Saylors profile tracker. Amid Bitcoin ETF approval expectations, his stash of Bitcoin has g… [+310 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Chris Pereira",
+            "title": "GTA 6 Trailer Leaks Early, Indicates 2025 Release Date",
+            "description": "After years of rumor and speculation, the first trailer for Rockstar Games' Grand Theft Auto VI has apparently leaked less than day before its planned debut. Assuming the video is legitimate, the game, as rumored, will be set in Vice City and is scheduled to …",
+            "url": "https://www.gamespot.com/articles/gta-6-trailer-2025-release/1100-6518649/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/123/1239113/4229986-3421595064-42181.jpg",
+            "publishedAt": "2023-12-04T22:45:00Z",
+            "content": "After years of rumor and speculation, the first trailer for Rockstar Games' Grand Theft Auto VI has apparently leaked less than day before its planned debut. Assuming the video is legitimate, the gam… [+856 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Tether plans to spend ~$500M over the next six months to become one of the world's top Bitcoin miners, after acquiring a 20% stake in Northern Data in September (Bloomberg)",
+            "description": "Bloomberg:\nTether plans to spend ~$500M over the next six months to become one of the world's top Bitcoin miners, after acquiring a 20% stake in Northern Data in September  —  - Tether to invest about $500 million in the next six months  — Stablecoin issuer b…",
+            "url": "https://www.techmeme.com/231116/p26",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI9BrQM6DcXk/v1/1200x800.jpg",
+            "publishedAt": "2023-11-16T15:35:10Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 10:35 AM ET, November 16, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo… [+72 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "unchainedcrypto.com",
+            "title": "Why Financial Advisors Are So Excited About a Spot Bitcoin ETF",
+            "description": "According to surveys of financial advisors, only 12% are currently recommending that clients invest in Bitcoin, while 47% of advisors personally own Bitcoin and a whopping 77% say they are waiting for a spot Bitcoin ETF to become available so they can offer i…",
+            "url": "https://biztoc.com/x/aaf23f331d5b71a1",
+            "urlToImage": "https://c.biztoc.com/p/aaf23f331d5b71a1/s.webp",
+            "publishedAt": "2023-11-21T12:08:09Z",
+            "content": "According to surveys of financial advisors, only 12% are currently recommending that clients invest in Bitcoin, while 47% of advisors personally own Bitcoin and a whopping 77% say they are waiting fo… [+324 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "eng.ambcrypto.com",
+            "title": "Bitcoin prices reach new highs",
+            "description": "Bitcoin price reached new highs, supported by Ordinals and Inscriptions. The number of addresses in profit continued to rise. As Bitcoin[BTC] continues to rally after recovering from a beari The post Bitcoin prices reach new highs - Will this trend continue? …",
+            "url": "https://biztoc.com/x/d7e0167365379a1c",
+            "urlToImage": "https://c.biztoc.com/p/d7e0167365379a1c/s.webp",
+            "publishedAt": "2023-11-21T20:36:37Z",
+            "content": "Bitcoin price reached new highs, supported by Ordinals and Inscriptions.The number of addresses in profit continued to rise.As Bitcoin[BTC] continues to rally after recovering from a beariThe post Bi… [+139 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "beincrypto.com",
+            "title": "New Crypto ICO ‘Bitcoin ETF Token’ Goes Live",
+            "description": "With immense anticipation building around Bitcoin spot ETF approval in the United States, one team of pioneers has developed a token directly linked to the Bitcoin ETF approval. Introducing Bitcoin ETF Token (BTCETF), a new project that rewards users as the E…",
+            "url": "https://biztoc.com/x/f9db628ed9248fc9",
+            "urlToImage": "https://c.biztoc.com/p/f9db628ed9248fc9/s.webp",
+            "publishedAt": "2023-11-06T11:30:06Z",
+            "content": "With immense anticipation building around Bitcoin spot ETF approval in the United States, one team of pioneers has developed a token directly linked to the Bitcoin ETF approval.Introducing Bitcoin ET… [+272 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cryptopotato.com",
+            "title": "Binance Dethroned in This Metric for the First Time in 2 Years Amid BTC, ETH ETF Craze",
+            "description": "The Chicago Mercantile Exchange (CME) recently displaced the world’s largest crypto exchange, Binance, becoming the biggest Bitcoin futures exchange. CME’s recent surge in Bitcoin Futures Open Interest has been driven by massive liquidations caused by Bitcoin…",
+            "url": "https://biztoc.com/x/fa09216f244fe8db",
+            "urlToImage": "https://c.biztoc.com/p/fa09216f244fe8db/s.webp",
+            "publishedAt": "2023-11-10T13:28:42Z",
+            "content": "The Chicago Mercantile Exchange (CME) recently displaced the worlds largest crypto exchange, Binance, becoming the biggest Bitcoin futures exchange.CMEs recent surge in Bitcoin Futures Open Interest … [+311 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "ambcrypto.com",
+            "title": "Bitcoin futures soar to record heights",
+            "description": "Bitcoin Open Interest on CME hits over $4 billion. The Bitcoin weighted funding rates remain positive. The Open Interest in Bitcoin [BTC] Futures has experienced a notable rise in the past few days, rising along with the price of BTC. Surprisingly, a specific…",
+            "url": "https://biztoc.com/x/dc8c21db8d4dcee4",
+            "urlToImage": "https://c.biztoc.com/p/dc8c21db8d4dcee4/s.webp",
+            "publishedAt": "2023-11-11T15:38:10Z",
+            "content": "Bitcoin Open Interest on CME hits over $4 billion.The Bitcoin weighted funding rates remain positive.The Open Interest in Bitcoin [BTC] Futures has experienced a notable rise in the past few days, ri… [+300 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "beincrypto.com",
+            "title": "SEC Delays Bitcoin ETFs: What Will Happen to BTC Price?",
+            "description": "Bitcoin remains above the $36,000 mark despite a recent announcement from the US Securities and Exchange Commission (SEC) to delay the approval process for several spot Bitcoin ETF applications. On November 17, the SEC filed extensions for its decision-making…",
+            "url": "https://biztoc.com/x/2f2106faf1f6e878",
+            "urlToImage": "https://c.biztoc.com/p/2f2106faf1f6e878/og.webp",
+            "publishedAt": "2023-11-20T00:24:08Z",
+            "content": "Bitcoin remains above the $36,000 mark despite a recent announcement from the US Securities and Exchange Commission (SEC) to delay the approval process for several spot Bitcoin ETF applications.On No… [+317 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "coinjournal.net",
+            "title": "Bitcoin trades above $37k: Will it reach the $40k psychological level soon?",
+            "description": "Key takeaways Bitcoin is trading above $37k as the broader crypto market rallies higher. Memeinator has now raised more than $1.2 million as its presale attracts more investors. Bitcoin eyes the $40k level Bitcoin, the world’s leading cryptocurrency by market…",
+            "url": "https://biztoc.com/x/84aaaa571361fe79",
+            "urlToImage": "https://c.biztoc.com/p/84aaaa571361fe79/s.webp",
+            "publishedAt": "2023-11-10T13:22:06Z",
+            "content": "Key takeawaysBitcoin is trading above $37k as the broader crypto market rallies higher. Memeinator has now raised more than $1.2 million as its presale attracts more investors.Bitcoin eyes the $40k l… [+250 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "coinjournal.net",
+            "title": "ORDI price hits new all-time high as Bitcoin touches $42k",
+            "description": "price hit a new all-time high of $44.03 early Monday as Bitcoin touched $42,000. The uptick in ORDI price comes amid rising total inscriptions on the Bitcoin network. ORDI could trade high if BTC continues on a bullish trajectory. As Bitcoin price rallied to …",
+            "url": "https://biztoc.com/x/2fc50be4a7af297b",
+            "urlToImage": "https://c.biztoc.com/p/2fc50be4a7af297b/s.webp",
+            "publishedAt": "2023-12-04T11:46:07Z",
+            "content": "price hit a new all-time high of $44.03 early Monday as Bitcoin touched $42,000.The uptick in ORDI price comes amid rising total inscriptions on the Bitcoin network.ORDI could trade high if BTC conti… [+243 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Charlie Hall",
+            "title": "Disney Lorcana Rise of the Floodborn’s two new starter sets are excellent",
+            "description": "Disney Lorcana’s Rise of the Floodborn includes two excellent new starter sets. Our review, ahead of the general release on Nov. 17.",
+            "url": "https://www.polygon.com/23955587/rise-of-the-floodborn-starter-decks",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Di4LZr2-4mlPORwD3ORiWtN5X4o=/0x0:1123x588/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25079879/Christopher_Robin___Adventurer_copy.jpg",
+            "publishedAt": "2023-11-13T05:01:00Z",
+            "content": "Ever since Disney Lorcana launched on Aug. 18, curious friends and family have wasted no breath asking me their most pressing questions: Whats it like?How does it compare to Magic: The Gathering? To … [+4988 chars]"
+        },
+        {
+ 
+            "source": {
+                "id": null,
+                "name": "Small Business Trends"
+            },
+            "author": "Samson Haileyesus",
+            "title": "Top 50 Cryptocurrencies",
+            "description": "Lesser-known cryptos are more speculative and unpredictable, before you buy look at the top 50 cryptocurrencies to hedge your investments.",
+            "url": "https://smallbiztrends.com/2023/11/top-50-cryptocurrencies.html",
+            "urlToImage": "https://media.smallbiztrends.com/2023/11/buying-crypto.png",
+            "publishedAt": "2023-11-24T13:52:11Z",
+            "content": "Exploring the top 50 cryptocurrencies reveals a diverse and rapidly evolving digital currency landscape. Unlike traditional paper money, these cryptocurrencies function as mediums of exchange through… [+26776 chars]"
+        }
+    ]
+
+}
